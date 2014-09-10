@@ -19,6 +19,7 @@ WriteMakefile(
     },
     PREREQ_PM => {
         'PGObject::Composite'       => 0,
+        'Moo::Role'                 => 0,
         'PGObject'                  => '1.402.5',
         'PGObject::Type::Composite' => 0,
     },

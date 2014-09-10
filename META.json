@@ -27,6 +27,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Moo::Role" : "0",
             "PGObject" : "v1.402.5",
             "PGObject::Composite" : "0",
             "PGObject::Type::Composite" : "0",
@@ -42,5 +43,5 @@
          "web" : "https://github.com/ledgersmb/PGObject-Composite-Role"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
